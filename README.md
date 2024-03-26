@@ -1,1 +1,1 @@
-All projects related to Algorithmic Toolbox course in Coursera.
+All assignments related to Algorithmic Toolbox course in Coursera.
